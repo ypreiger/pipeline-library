@@ -16,3 +16,6 @@ Please see https://github.com/redhat-cop/container-pipelines or https://github.c
 # Other Resources
 
 * https://github.com/fabric8io/fabric8-jenkinsfile-library which influenced the structure of this project
+
+
+https://github.com/redhat-cop/container-pipelines
